@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Ageo";
+  src: url("public/neue-montreal/NeueMontreal-Regular.otf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
